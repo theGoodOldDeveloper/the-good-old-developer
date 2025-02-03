@@ -13,9 +13,15 @@ export default function ContactForm() {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm({ resolver: zodResolver(schema) });
+  } = useForm<FormData>({ resolver: zodResolver(schema) });
 
-  const onSubmit = (data) => {
+  interface FormData {
+    name: string;
+    email: string;
+    message: string;
+  }
+
+  const onSubmit = (data: FormData) => {
     console.log(data);
   };
 

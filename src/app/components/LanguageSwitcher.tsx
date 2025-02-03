@@ -5,19 +5,26 @@ import { useState } from "react";
 
 export default function LanguageSwitcher() {
   const router = useRouter();
-  const [lang, setLang] = useState("en");
+  const setLang = useState("en")[1];
 
-  const switchLanguage = (newLang) => {
+  interface SwitchLanguageProps {
+    newLang: string;
+  }
+
+  const switchLanguage = ({ newLang }: SwitchLanguageProps) => {
     setLang(newLang);
     router.push(`/${newLang}`);
   };
 
   return (
     <div>
-      <button onClick={() => switchLanguage("en")} className="mr-2">
-        🇬🇧 EN
+      <button
+        onClick={() => switchLanguage({ newLang: "en" })}
+        className="mr-2"
+      >
+        EN
       </button>
-      <button onClick={() => switchLanguage("hu")}>🇭🇺 HU</button>
+      <button onClick={() => switchLanguage({ newLang: "hu" })}>HU</button>
     </div>
   );
 }

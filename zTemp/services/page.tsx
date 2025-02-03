@@ -23,7 +23,11 @@ const services = [
 ];
 
 export default function Services() {
-  const [selectedService, setSelectedService] = useState(null);
+  const [selectedService, setSelectedService] = useState<{
+    id: number;
+    title: string;
+    description: string;
+  } | null>(null);
 
   return (
     <div className="max-w-4xl mx-auto mt-10">

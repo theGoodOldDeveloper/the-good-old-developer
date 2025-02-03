@@ -11,7 +11,7 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        AI won't take your job...
+        AI won&apos;t take your job...
       </motion.h1>
       <motion.p
         className="mt-4 text-xl"

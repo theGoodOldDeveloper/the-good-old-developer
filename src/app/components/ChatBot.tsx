@@ -1,5 +1,17 @@
 "use client";
 
+declare global {
+  interface Window {
+    botpressWebChat: {
+      config: {
+        botId: string;
+        host: string;
+        showCloseButton: boolean;
+      };
+    };
+  }
+}
+
 import { useEffect, useState } from "react";
 
 export default function ChatBot() {
