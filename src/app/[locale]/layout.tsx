@@ -13,8 +13,6 @@ export default async function LocaleLayout({
 }) {
   const messages = (await import(`../../../messages/${locale}.json`)).default;
 
-  console.log(messages, "❤️❤️❤️❤️❤️❤️❤️❤️❤️");
-
   return (
     <html lang={locale}>
       <body>

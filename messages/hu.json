@@ -2,7 +2,9 @@
   "Home": {
     "example1": "Hello World! - HU",
     "example2": "Hungarian page !",
-    "footer": "And avatar with Synthesia",
+    "footer": "And avatar with Synthesia"
+  },
+  "Hero": {
     "quotesLine1": "Az AI nem fogja elvenni a munkádat...",
     "quotesLine2": "De valaki, aki ért az AI-hoz, lehet, hogy igen.",
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2"

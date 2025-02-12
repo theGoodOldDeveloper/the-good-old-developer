@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
 
 export default function Hero() {
-  const t = useTranslations("Home");
+  const t = useTranslations("Hero");
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
@@ -21,7 +21,6 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        {/* AI won&apos;t take your job... */}
         {t("quotesLine1")}
       </motion.h1>
       <motion.p
@@ -30,11 +29,9 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 1 }}
       >
-        {/* But someone who knows AI might. */}
         {t("quotesLine2")}
       </motion.p>
 
-      {/* Synthesia videó beágyazás csak ha a komponens a kliens oldalon renderelődött */}
       {isClient && (
         <motion.div
           className="mt-4"

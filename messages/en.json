@@ -2,9 +2,11 @@
   "Home": {
     "example1": "Hello World! - GB",
     "example2": "Aidez-moi à atteindre les 1.000 abonnés !",
-    "footer": "Abonnez-vous à la chaîne The JavaScript Way et découvrez NextJS, ReactJS et MERN.",
+    "footer": "Abonnez-vous à la chaîne The JavaScript Way et découvrez NextJS, ReactJS et MERN."
+  },
+  "Hero": {
     "quotesLine1": "AI won't take your job...",
     "quotesLine2": "But someone who knows AI might.",
-    "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2"
+    "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2"
   }
 }
