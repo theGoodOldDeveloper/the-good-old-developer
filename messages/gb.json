@@ -1,7 +1,7 @@
 {
   "Home": {
-    "example1": "Hello World! - GB",
-    "example2": "Aidez-moi à atteindre les 1.000 abonnés !",
+    "aboutMeAddress": "Hello World! - GB",
+    "eaboutMeContent": "Aidez-moi à atteindre les 1.000 abonnés !",
     "footer": "Abonnez-vous à la chaîne The JavaScript Way et découvrez NextJS, ReactJS et MERN.",
     "quotesLine1": "AI won&apos;t take your job... 👑",
     "quotesLine2": "But someone who knows AI might. ❤️",
