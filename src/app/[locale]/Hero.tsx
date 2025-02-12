@@ -3,7 +3,10 @@
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
+import { useTranslations } from "next-intl";
+
 export default function Hero() {
+  const t = useTranslations("Home");
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
@@ -18,7 +21,8 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        AI won&apos;t take your job...
+        {/* AI won&apos;t take your job... */}
+        {t("quotesLine1")}
       </motion.h1>
       <motion.p
         className="mt-4 text-xl"
@@ -26,7 +30,8 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 1 }}
       >
-        But someone who knows AI might.
+        {/* But someone who knows AI might. */}
+        {t("quotesLine2")}
       </motion.p>
 
       {/* Synthesia videó beágyazás csak ha a komponens a kliens oldalon renderelődött */}
@@ -47,7 +52,8 @@ export default function Hero() {
             }}
           >
             <iframe
-              src="https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2"
+              // src="https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2"
+              src={t("synthesiaVideoLink")}
               loading="lazy"
               title="Synthesia video player - ChatBot"
               allowFullScreen

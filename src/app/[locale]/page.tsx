@@ -1,8 +1,9 @@
-import Hero from "../components/Hero";
+import Hero from "./Hero";
 import Services from "../components/Services";
 import { useTranslations } from "next-intl";
 
 export default function Index() {
+  console.log(useTranslations("Home")("quotesLine1"), "❤️❤️❤️");
   const t = useTranslations("Home");
   return (
     <div>

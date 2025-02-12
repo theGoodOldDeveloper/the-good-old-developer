@@ -1,20 +1,29 @@
-import Navbar from '@/components/Navbar';
-import Footer from '@/components/Footer';
+import { NextIntlClientProvider } from "next-intl";
+import { ReactNode } from "react";
 
-export default function LocaleLayout({
-	children,
-	params: { locale },
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
+
+export default async function LocaleLayout({
+  children,
+  params: { locale },
 }: {
-	children: React.ReactNode;
-	params: { locale: string };
+  children: React.ReactNode;
+  params: { locale: string };
 }) {
-	return (
-		<html lang={locale}>
-			<body>
-				<Navbar />
-				{children}
-				<Footer />
-			</body>
-		</html>
-	);
+  const messages = (await import(`../../../messages/${locale}.json`)).default;
+
+  console.log(messages, "❤️❤️❤️❤️❤️❤️❤️❤️❤️");
+
+  return (
+    <html lang={locale}>
+      <body>
+        <NextIntlClientProvider locale={locale} messages={messages}>
+          <Navbar />
+          {children}
+          <Footer />
+        </NextIntlClientProvider>
+      </body>
+    </html>
+  );
 }
