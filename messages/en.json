@@ -1,7 +1,32 @@
 {
   "Home": {
-    "aboutMeAddress": "Your AI-Powered Developer – From Vision to Reality",
-    "aboutMeContent": "Hey there! I'm Tibor Végh, a full stack developer with a DevOps mindset and a relentless passion for AI-driven automation, chatbots, and digital transformation. If you're looking for someone who doesn’t just build things but brings them to life, you’ve landed in the right place! I help businesses – from startups to established enterprises – turn complex ideas into smooth, scalable, and automated solutions. Whether it’s: AI-powered chatbots that charm your customers while working 24/7 (no coffee breaks, no sick days). Custom-built applications that simplify operations and boost efficiency. E-commerce and business platforms that don’t just exist but sell and engage. Automated scheduling, CRM, and tracking systems to make management effortless. DevOps & cloud solutions so you never have to worry about infrastructure headaches. Why work with me? AI-first mindset – The future belongs to automation, and I make sure you're ahead of the curve. End-to-end development – From brainstorming to deployment, I handle everything. Clear communication – I break down even the most complex tech concepts so they make sense, even if you're not an IT guru. 30+ years of experience – If there’s a tech challenge, I’ve probably solved it before (and if not, I love a good puzzle). Reliable, efficient, and fun to work with – No tech jargon overload, no ghosting, just solutions that work. I design, build, deploy, and maintain AI-driven systems that save time, increase efficiency, and make businesses smarter. Let’s build something amazing together! Get in touch today and let’s automate, innovate, and grow your business with AI!",
+    "aboutMeTitle": "Your AI-Powered Developer – From Vision to Reality",
+    "aboutMeContentParagraph01": "Hey there! I'm Tibor Végh, a full stack developer with a DevOps mindset and a relentless passion for AI-driven automation, chatbots, and digital transformation. If you're looking for someone who doesn’t just build things but brings them to life, you’ve landed in the right place!",
+    "aboutMeContentParagraph02": "I help businesses – from startups to established enterprises – turn complex ideas into smooth, scalable, and automated solutions. Whether it’s:",
+    "aboutMeContentParagraph03": {
+      "list": [
+        "✅ AI-powered chatbots that charm your customers while working 24/7 (no coffee breaks, no sick days).",
+        "✅ Custom-built applications that simplify operations and boost efficiency.",
+        "✅ E-commerce and business platforms that don’t just exist but sell and engage.",
+        "✅ Automated scheduling, CRM, and tracking systems to make management effortless.",
+        "✅ DevOps & cloud solutions so you never have to worry about infrastructure headaches."
+      ]
+    },
+    "aboutMeContentParagraph04": "Why work with me?",
+    "aboutMeContentParagraph05": {
+      "list": [
+        "🚀 AI-first mindset – The future belongs to automation, and I make sure you're ahead of the curve.",
+        "🔧 End-to-end development – From brainstorming to deployment, I handle everything.",
+        "🤝 Clear communication – I break down even the most complex tech concepts so they make sense, even if you're not an IT guru.",
+        "💡 30+ years of experience – If there’s a tech challenge, I’ve probably solved it before (and if not, I love a good puzzle).",
+        "🔥 Reliable, efficient, and fun to work with – No tech jargon overload, no ghosting, just solutions that work."
+      ]
+    },
+    "aboutMeContentParagraph06": "I design, build, deploy, and maintain AI-driven systems that save time, increase efficiency, and make businesses smarter.",
+    "aboutMeContentParagraph07": "💡 Let’s build something amazing together!",
+    "aboutMeContentParagraph08": "📩 Get in touch today and let’s automate, innovate, and grow your business with AI!",
+    "aboutMeContentParagraph09": "paragraph 09",
+    "aboutMeContentParagraph10": "paragraph 10",
     "footer": "Abonnez-vous à la chaîne The JavaScript Way et découvrez NextJS, ReactJS et MERN."
   },
   "Hero": {

@@ -1,7 +1,32 @@
 {
   "Home": {
-    "aboutMeAddress": "AI-alapú fejlesztés – Az ötlettől a megvalósításig",
-    "aboutMeContent": "Helló! Végh Tibor vagyok, egy full stack fejlesztő DevOps szemlélettel és AI-vezérelt automatizáció, chatbotok és digitális innováció iránti szenvedéllyel. Ha olyan szakembert keresel, aki nemcsak fejleszt, hanem életre is kelti a megoldásokat, akkor jó helyen jársz! Segítek a vállalkozásoknak – a startupoktól a nagyobb cégekig – bonyolult ötleteiket gördülékeny, skálázható és automatizált megoldásokká alakítani. Legyen szó: AI-alapú chatbotokról, amelyek éjjel-nappal dolgoznak, és még kávészünetet sem kérnek. Egyedi alkalmazásokról, amelyek egyszerűsítik a működést és növelik a hatékonyságot. E-kereskedelmi és üzleti platformokról, amelyek nemcsak léteznek, hanem el is adnak. Automatizált időpontfoglalásról, CRM- és nyomkövető rendszerekről, hogy az adminisztráció ne legyen rémálom. DevOps és felhőmegoldásokról, hogy az infrastruktúra miatt se kelljen aggódnod. Miért érdemes velem dolgozni? AI-központú gondolkodás – Az automatizációé a jövő, és én gondoskodom róla, hogy az élen járj. Teljes körű fejlesztés – Az ötlettől a megvalósításig mindent elintézek. Érthető kommunikáció – Még ha nem is vagy IT-szakember, elmagyarázom úgy, hogy világos legyen. 30+ év tapasztalat – Ha van egy tech kihívás, valószínűleg már találkoztam vele (és meg is oldottam). Megbízható, hatékony és jó hangulatú munka – Nincs felesleges szakzsargon, nincs eltűnés, csak működő megoldások. AI-alapú rendszereket tervezek, fejlesztek, telepítek és üzemeltetek, amelyek időt spórolnak, növelik a hatékonyságot és okosabbá teszik a vállalkozásokat. Dolgozzunk együtt egy zseniális projekten! Lépj kapcsolatba velem még ma, és vigyük sikerre a vállalkozásodat AI segítségével!",
+    "aboutMeTitle": "AI-alapú fejlesztés – Az ötlettől a megvalósításig",
+    "aboutMeContentParagraph01": "Helló! Végh Tibor vagyok, egy full stack fejlesztő DevOps szemlélettel és AI-vezérelt automatizáció, chatbotok és digitális innováció iránti szenvedéllyel. Ha olyan szakembert keresel, aki nemcsak fejleszt, hanem életre is kelti a megoldásokat, akkor jó helyen jársz!",
+    "aboutMeContentParagraph02": "Segítek a vállalkozásoknak – a startupoktól a nagyobb cégekig – bonyolult ötleteiket gördülékeny, skálázható és automatizált megoldásokká alakítani. Legyen szó:",
+    "aboutMeContentParagraph03": {
+      "list": [
+        "✅ AI-alapú chatbotokról, amelyek éjjel-nappal dolgoznak, és még kávészünetet sem kérnek.",
+        "✅ Egyedi alkalmazásokról, amelyek egyszerűsítik a működést és növelik a hatékonyságot.",
+        "✅ E-kereskedelmi és üzleti platformokról, amelyek nemcsak léteznek, hanem el is adnak.",
+        "✅ Automatizált időpontfoglalásról, CRM- és nyomkövető rendszerekről, hogy az adminisztráció ne legyen rémálom.",
+        "✅ DevOps és felhőmegoldásokról, hogy az infrastruktúra miatt se kelljen aggódnod."
+      ]
+    },
+    "aboutMeContentParagraph04": "Miért érdemes velem dolgozni?",
+    "aboutMeContentParagraph05": {
+      "list": [
+        "🚀 AI-központú gondolkodás – Az automatizációé a jövő, és én gondoskodom róla, hogy az élen járj.",
+        "🔧 Teljes körű fejlesztés – Az ötlettől a megvalósításig mindent elintézek.",
+        "🤝 Érthető kommunikáció – Még ha nem is vagy IT-szakember, elmagyarázom úgy, hogy világos legyen.",
+        "💡 30+ év tapasztalat – Ha van egy tech kihívás, valószínűleg már találkoztam vele (és meg is oldottam).",
+        "🔥 Megbízható, hatékony és jó hangulatú munka – Nincs felesleges szakzsargon, nincs eltűnés, csak működő megoldások."
+      ]
+    },
+    "aboutMeContentParagraph06": "AI-alapú rendszereket tervezek, fejlesztek, telepítek és üzemeltetek, amelyek időt spórolnak, növelik a hatékonyságot és okosabbá teszik a vállalkozásokat.",
+    "aboutMeContentParagraph07": "💡 Dolgozzunk együtt egy zseniális projekten!",
+    "aboutMeContentParagraph08": "📩 Lépj kapcsolatba velem még ma, és vigyük sikerre a vállalkozásodat AI segítségével!",
+    "aboutMeContentParagraph09": "paragraph 09",
+    "aboutMeContentParagraph10": "paragraph 10",
     "footer": "And avatar with Synthesia"
   },
   "Hero": {

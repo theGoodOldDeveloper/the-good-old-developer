@@ -1,12 +1,37 @@
 {
   "Home": {
-    "aboutMeAddress": "KI-gesteuerte Entwicklung – Von der Idee zur Realität",
-    "aboutMeContent": "Hallo! Ich bin Tibor Végh, ein Full Stack Developer mit DevOps-Mindset und einer großen Leidenschaft für KI-gestützte Automatisierung, Chatbots und digitale Innovation. Wenn du jemanden suchst, der nicht nur programmiert, sondern deine Vision zum Leben erweckt, dann bist du hier genau richtig! Ich helfe Unternehmen – von Startups bis zu etablierten Firmen – dabei, komplexe Ideen in reibungslose, skalierbare und automatisierte Lösungen umzuwandeln. Dazu gehören: KI-gestützte Chatbots, die rund um die Uhr arbeiten. Maßgeschneiderte Anwendungen, die Abläufe vereinfachen und die Effizienz steigern. E-Commerce- und Business-Plattformen, die nicht nur existieren, sondern verkaufen und Kunden binden. Automatisierte Buchungssysteme, CRM- und Tracking-Lösungen, damit du dich auf das Wesentliche konzentrieren kannst. DevOps- und Cloud-Lösungen, damit deine Infrastruktur reibungslos läuft. Warum mit mir arbeiten? KI-First-Mentalität – Die Zukunft gehört der Automatisierung, und ich bringe dich an die Spitze. End-to-End-Entwicklung – Von der Idee bis zur Umsetzung kümmere ich mich um alles. Klare Kommunikation – Auch wenn du kein IT-Experte bist, erkläre ich alles verständlich. 30+ Jahre Erfahrung – Wenn es ein technisches Problem gibt, habe ich es wahrscheinlich schon gelöst. Zuverlässig, effizient und angenehm in der Zusammenarbeit – Kein unnötiger Tech-Slang, kein Verschwinden, nur funktionierende Lösungen. Lass uns gemeinsam etwas Großartiges aufbauen! Kontaktiere mich noch heute, und lass uns dein Unternehmen mit KI voranbringen!",
+    "aboutMeTitle": "KI-gesteuerte Entwicklung – Von der Idee zur Realität",
+    "aboutMeContentParagraph01": "Hallo! Ich bin Tibor Végh, ein Full Stack Developer mit DevOps-Mindset und einer großen Leidenschaft für KI-gestützte Automatisierung, Chatbots und digitale Innovation. Wenn du jemanden suchst, der nicht nur programmiert, sondern deine Vision zum Leben erweckt, dann bist du hier genau richtig!",
+    "aboutMeContentParagraph02": "Ich helfe Unternehmen – von Startups bis zu etablierten Firmen – dabei, komplexe Ideen in reibungslose, skalierbare und automatisierte Lösungen umzuwandeln. Dazu gehören:",
+    "aboutMeContentParagraph03": {
+      "list": [
+        "✅ KI-gestützte Chatbots, die rund um die Uhr arbeiten (keine Kaffeepausen, keine Krankheitstage).",
+        "✅ Maßgeschneiderte Anwendungen, die Abläufe vereinfachen und die Effizienz steigern.",
+        "✅ E-Commerce- und Business-Plattformen, die nicht nur existieren, sondern verkaufen und Kunden binden.",
+        "✅ Automatisierte Buchungssysteme, CRM- und Tracking-Lösungen, damit du dich auf das Wesentliche konzentrieren kannst.",
+        "✅ DevOps- und Cloud-Lösungen, damit deine Infrastruktur reibungslos läuft."
+      ]
+    },
+    "aboutMeContentParagraph04": "Warum mit mir arbeiten?",
+    "aboutMeContentParagraph05": {
+      "list": [
+        "🚀 KI-First-Mentalität – Die Zukunft gehört der Automatisierung, und ich bringe dich an die Spitze.",
+        "🔧 End-to-End-Entwicklung – Von der Idee bis zur Umsetzung kümmere ich mich um alles.",
+        "🤝 Klare Kommunikation – Auch wenn du kein IT-Experte bist, erkläre ich alles verständlich.",
+        "💡 30+ Jahre Erfahrung – Wenn es ein technisches Problem gibt, habe ich es wahrscheinlich schon gelöst.",
+        "🔥 Zuverlässig, effizient und angenehm in der Zusammenarbeit – Kein unnötiger Tech-Slang, kein Verschwinden, nur funktionierende Lösungen."
+      ]
+    },
+    "aboutMeContentParagraph06": "Ich designe, entwickle, deploye und betreue KI-gestützte Systeme, die Zeit sparen, die Effizienz steigern und Unternehmen intelligenter machen.",
+    "aboutMeContentParagraph07": "💡 Lass uns gemeinsam etwas Großartiges aufbauen!",
+    "aboutMeContentParagraph08": "📩 Kontaktiere mich noch heute, und lass uns dein Unternehmen mit KI voranbringen!",
+    "aboutMeContentParagraph09": "paragraph 09",
+    "aboutMeContentParagraph10": "paragraph 10",
     "footer": "Abonnez-vous à la chaîne The JavaScript Way et découvrez NextJS, ReactJS et MERN."
   },
   "Hero": {
-    "quotesLine1": "AI wird dir nicht deinen Job wegnehmen...",
-    "quotesLine2": "Aber jemand, der sich mit AI auskennt, vielleicht schon.",
+    "quotesLine1": "KI wird dir nicht deinen Job wegnehmen...",
+    "quotesLine2": "Aber jemand, der sich mit KI auskennt, vielleicht schon.",
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2"
   }
 }
