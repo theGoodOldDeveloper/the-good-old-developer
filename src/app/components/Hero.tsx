@@ -49,11 +49,10 @@ export default function Hero() {
             }}
           >
             <iframe
-              // src="https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2"
               src={t("synthesiaVideoLink")}
               loading="lazy"
               title="Synthesia video player - ChatBot"
-              allowFullScreen
+              //allowFullScreen
               allow="encrypted-media; fullscreen; autoplay;"
               style={{
                 width: "100%",

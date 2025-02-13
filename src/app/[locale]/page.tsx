@@ -13,7 +13,7 @@ export default function Index() {
           {t("aboutMeTitle")}
         </h1>
 
-        <h3 className="text-left text-1xl font-semibold ps-6 pe-6">
+        <div className="text-left text-1xl font-semibold ps-6 pe-6">
           <h3>{t("aboutMeContentParagraph01")}</h3>
           <h3>{t("aboutMeContentParagraph02")}</h3>
           <ul className="list-disc pl-6 space-y-2 mt-3">
@@ -42,7 +42,7 @@ export default function Index() {
           <h3>{t("aboutMeContentParagraph08")}</h3>
           {/* <h3>{t("aboutMeContentParagraph09")}</h3>
           <h3>{t("aboutMeContentParagraph10")}</h3> */}
-        </h3>
+        </div>
       </div>
       <Services />
     </div>
