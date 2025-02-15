@@ -9,7 +9,7 @@ export default function Index() {
       <Hero />
       <div className="flex flex-col justify-center items-center">
         {/* <div className="flex flex-col justify-center items-center h-screen"> */}
-        <h1 className="text-center text-3xl font-bold mb-10 mt-10">
+        <h1 className="text-center text-3xl font-bold mb-10 mt-10 ps-3 pe-3">
           {t("aboutMeTitle")}
         </h1>
 
