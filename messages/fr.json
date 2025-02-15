@@ -33,12 +33,16 @@
         "quotesLine1": "L'IA ne prendra pas votre emploi...",
         "quotesLine2": "Mais quelqu'un qui maîtrise l'IA pourrait bien le faire.",
         "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/53204165-e08a-4243-bdd3-45ca6d1415e5?autoplay=1&volume=0.2",
-        "contactButton": "Contactez-nous"
+        "contactButton": "Contactez-nous",
+        "messengerButton": "Messenger"
     },
     "Footer": {
         "copyright": "© 2024 THE GOOD OLD DEVELOPER. Tous droits réservés.",
         "tagline": "Des solutions numériques innovantes avec l'IA et l'automatisation.",
         "contact": "Vous avez un projet en tête ? Parlons-en !",
         "contactButton": "Contactez-nous"
+    },
+    "Messenger": {
+        "buttonText": "Envoyez-nous un message sur Messenger"
     }
 }

@@ -1,4 +1,5 @@
 "use client"; // Biztosítja, hogy a komponens kliens oldalon renderelődjön
+import Messenger from "./Messenger";
 
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
@@ -70,12 +71,13 @@ export default function Hero() {
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
       >
-        <button className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg">
+        <Messenger />
+        {/* <button className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg">
           {t("contactButton")}
         </button>
         <button className="px-6 py-3 bg-blue-700 text-white font-bold rounded-lg shadow-lg">
-          Hívj Messengeren
-        </button>
+          {t("messengerButton")}
+        </button> */}
       </motion.div>
     </div>
   );
