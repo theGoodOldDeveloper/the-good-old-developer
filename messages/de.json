@@ -32,6 +32,13 @@
   "Hero": {
     "quotesLine1": "KI wird dir nicht deinen Job wegnehmen...",
     "quotesLine2": "Aber jemand, der sich mit KI auskennt, vielleicht schon.",
-    "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2"
+    "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2",
+    "contactButton": "Kontakt aufnehmen"
+  },
+  "Footer": {
+    "copyright": "© 2024 THE GOOD OLD DEVELOPER. Alle Rechte vorbehalten.",
+    "tagline": "Innovative digitale Lösungen mit KI und Automatisierung.",
+    "contact": "Haben Sie ein Projekt im Kopf? Lassen Sie uns sprechen!",
+    "contactButton": "Kontakt aufnehmen"
   }
 }

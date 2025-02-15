@@ -71,7 +71,7 @@ export default function Hero() {
         transition={{ delay: 1, duration: 1 }}
       >
         <button className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg">
-          Lépj kapcsolatba
+          {t("contactButton")}
         </button>
         <button className="px-6 py-3 bg-blue-700 text-white font-bold rounded-lg shadow-lg">
           Hívj Messengeren
