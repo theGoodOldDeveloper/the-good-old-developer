@@ -12,7 +12,7 @@ import portrait from "@/images/portrait_main.jpg";
 export default function Navbar() {
   return (
     <header className="bg-slate-200 fixed z-30 w-full ">
-      <nav className="flex justify-between items-center p-0">
+      <nav className="flex justify-between items-center ps-2 pe-2">
         <div className="flex items-center">
           <Image
             src={portrait}
