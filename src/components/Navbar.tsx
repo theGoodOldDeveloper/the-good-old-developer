@@ -12,30 +12,30 @@ import portrait from "@/images/portrait_main.jpg";
 export default function Navbar() {
   return (
     <header className="bg-slate-200 fixed z-30 w-full ">
-      <nav className="flex justify-between items-center p-1">
+      <nav className="flex justify-between items-center p-0">
         <div className="flex items-center">
           <Image
             src={portrait}
             alt="Logo"
-            width={50}
-            height={50}
+            width={25}
+            height={25}
             className="rounded-full"
           />
 
-          <h1 className="text-xl font-bold ml-3">THE GOOD OLD DEVELOPER</h1>
+          <h1 className="text-sm font-bold ml-3">THE GOOD OLD DEVELOPER</h1>
         </div>
-        <div className="flex justify-end gap-4 p-5">
+        <div className="flex justify-end gap-4 p-1">
           <Link href="/en">
             <Image src={Flag_EN} alt="english flag" width={36} height={36} />
           </Link>
           <Link href="/hu">
-            <Image src={Flag_HU} alt="hungarian flag" width={25} height={25} />
+            <Image src={Flag_HU} alt="hungarian flag" width={36} height={36} />
           </Link>
           <Link href="/fr">
-            <Image src={Flag_FR} alt="french flag" width={25} height={25} />
+            <Image src={Flag_FR} alt="french flag" width={36} height={36} />
           </Link>
           <Link href="/de">
-            <Image src={Flag_DE} alt="german flag" width={25} height={25} />
+            <Image src={Flag_DE} alt="german flag" width={36} height={36} />
           </Link>
         </div>
       </nav>
