@@ -6,7 +6,8 @@ import Flag_ES from "../images/es-flag.png";
 import Flag_HU from "../images/hu-flag.png";
 import Flag_DE from "../images/de-flag.png";
 import Flag_EN from "../images/gb-flag.png";
-import portrait from "../images/portrait_main.jpg";
+//import portrait from "../images/portrait_main.jpg";
+import portrait from "@/images/portrait_main.jpg";
 
 export default function Navbar() {
   return (
@@ -25,7 +26,7 @@ export default function Navbar() {
         </div>
         <div className="flex justify-end gap-4 p-5">
           <Link href="/en">
-            <Image src={Flag_EN} alt="english flag" width={25} height={25} />
+            <Image src={Flag_EN} alt="english flag" width={36} height={36} />
           </Link>
           <Link href="/hu">
             <Image src={Flag_HU} alt="hungarian flag" width={25} height={25} />
