@@ -44,5 +44,84 @@
   },
   "Messenger": {
     "buttonText": "Nachricht über Messenger senden"
+  },
+  "Services": {
+    "title": "Our Services",
+    "contactButton": "Contact Us",
+    "closeButton": "Close",
+    "services": [
+      {
+        "id": 1,
+        "title": "💕💕AI & Chatbot Fejlesztés",
+        "description": "🚀 Automatizált, intelligens ügyfélkapcsolat és AI-megoldások",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 2,
+        "title": "💕💕Ecommerce & Hospitality IT",
+        "description": "Scalable IT solutions for restaurants, hotels, and ecommerce platforms.",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 3,
+        "title": "💕💕App Development & Infrastructure",
+        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 4,
+        "title": "💕💕App Development & Infrastructure",
+        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 5,
+        "title": "💕💕App Development & Infrastructure",
+        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "id": 6,
+        "title": "💕💕💕💕App Development & Infrastructure",
+        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "content": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      }
+    ]
   }
 }
