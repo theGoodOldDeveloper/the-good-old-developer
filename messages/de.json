@@ -52,14 +52,14 @@
     "services": [
       {
         "id": 1,
-        "title": "💕💕AI & Chatbot Fejlesztés",
-        "description": "🚀 Automatizált, intelligens ügyfélkapcsolat és AI-megoldások",
+        "title": "💕 KI- & Chatbot-Entwicklung",
+        "description": "🚀 Automatisierte, intelligente Kundeninteraktion und KI-Lösungen",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ KI-gestützte Chatbots (Messenger, WhatsApp, Website-Integration)",
+          "✅ Kundensupport-Bots – automatisierte FAQs und Support",
+          "✅ KI-Assistenten – GPT-basierte Chatbots für Unternehmen",
+          "✅ Sprachgesteuerte und NLP-Lösungen",
+          "🛠 Technologien : BotPress, OpenAI API, Rasa, Next.js, Node.js"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",
@@ -68,14 +68,14 @@
       },
       {
         "id": 2,
-        "title": "💕💕Ecommerce & Hospitality IT",
-        "description": "Scalable IT solutions for restaurants, hotels, and ecommerce platforms.",
+        "title": "Individuelle Webanwendungen & Portale",
+        "description": "💻 Vollständig maßgeschneiderte, skalierbare Webanwendungen",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ Individuelle Geschäftsanwendungen (ERP, CRM, Verwaltungssysteme)",
+          "✅ Progressive Web-Apps (PWA)",
+          "✅ Entwicklung von SaaS-Plattformen",
+          "✅ Backend-Entwicklung mit APIs und Datenbankintegrationen",
+          "🛠 Technologien : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",
@@ -84,14 +84,14 @@
       },
       {
         "id": 3,
-        "title": "💕💕App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "E-Commerce-Lösungen",
+        "description": "🛒 Moderne, konversionsoptimierte Online-Shops und E-Commerce-Plattformen",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ WooCommerce, Shopify, vollständig individuelle Webshops",
+          "✅ KI-gestützte Produktempfehlungssysteme",
+          "✅ Automatisierte Lagerverwaltung, Bestellverfolgung, Zahlungsintegrationen",
+          "✅ PWA-basierte, schnelle und mobilfreundliche Webshops",
+          "🛠 Technologien : Shopify, WooCommerce, Next.js, Stripe API, PayPal API"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",
@@ -100,14 +100,14 @@
       },
       {
         "id": 4,
-        "title": "💕💕App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "Geschäftsautomatisierung & API-Integration",
+        "description": "🔗 Automatisierung und Integration externer Dienste für höhere Effizienz",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ Automatisierte Geschäftsprozesse (Newsletter, Kundenverwaltung, Terminbuchung)",
+          "✅ Integration von CRM- und ERP-Systemen",
+          "✅ API-Entwicklung und -Integration (Google Maps, Stripe, PayPal, OpenAI)",
+          "✅ Web Scraping und KI-gestützte Datenverarbeitung",
+          "🛠 Technologien : Node.js, Next.js API Routes, REST API, GraphQL, Zapier"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",
@@ -116,14 +116,14 @@
       },
       {
         "id": 5,
-        "title": "💕💕App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "DevOps & VPS-Management",
+        "description": "E⚙️ Sichere und skalierbare Server- und Infrastrukturverwaltung",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ VPS-Server (AWS, DigitalOcean) Einrichtung und Management",
+          "✅ Docker- & Kubernetes-basierte Anwendungsbereitstellung",
+          "✅ CI/CD-Pipelines und automatisiertes Testen",
+          "✅ Sicherheits-Backups, Monitoring, Log-Analyse",
+          "🛠 Technologien : AWS, DigitalOcean, Docker, Kubernetes, Nginx, GitHub Actions"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",
@@ -132,14 +132,14 @@
       },
       {
         "id": 6,
-        "title": "💕💕💕💕App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "Webentwicklung & SEO-Optimierung",
+        "description": "🌍 Schnelle, SEO-optimierte, conversion-freundliche Websites",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ Next.js-basierte, blitzschnelle Websites",
+          "✅ Suchmaschinenoptimierung (SEO) und technisches SEO-Audit",
+          "✅ Responsives Webdesign (mobilfreundliche Entwicklung)",
+          "✅ Dunkelmodus, Animationen und moderne UI/UX-Lösungen",
+          "🛠 Technologien : Next.js, Tailwind CSS, Framer Motion, Google Lighthouse SEO"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 de",

@@ -52,14 +52,14 @@
         "services": [
             {
                 "id": 1,
-                "title": "🤩AI & Chatbot Fejlesztés",
-                "description": "🚀 Automatizált, intelligens ügyfélkapcsolat és AI-megoldások",
+                "title": "💕 Développement d’IA & Chatbots",
+                "description": "🚀 Interactions clients automatisées et intelligentes, solutions IA",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ Chatbots basés sur l'IA (Messenger, WhatsApp, intégration sur site web)",
+                    "✅ Bots de service client – FAQ et assistance automatisées",
+                    "✅ Assistants IA – Chatbots GPT pour les entreprises",
+                    "✅ Solutions NLP et commandes vocales",
+                    "🛠 Technologies : BotPress, OpenAI API, Rasa, Next.js, Node.js"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",
@@ -68,14 +68,14 @@
             },
             {
                 "id": 2,
-                "title": "🤩🤩Ecommerce & Hospitality IT",
-                "description": "Scalable IT solutions for restaurants, hotels, and ecommerce platforms.",
+                "title": "Développement d'applications web & Portails personnalisés",
+                "description": "💻 Applications web entièrement personnalisées et évolutives",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ Applications métier personnalisées (ERP, CRM, systèmes de gestion)",
+                    "✅ Applications web progressives (PWA)",
+                    "✅ Développement de plateformes SaaS",
+                    "✅ Développement backend avec API et intégration de bases de données",
+                    "🛠 Technologies : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",
@@ -84,14 +84,14 @@
             },
             {
                 "id": 3,
-                "title": "🤩App Development & Infrastructure",
-                "description": "End-to-end app development and cloud-based infrastructure setup.",
+                "title": "Solutions E-commerce",
+                "description": "🛒 Boutiques en ligne modernes et optimisées pour la conversion",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ WooCommerce, Shopify, boutiques en ligne sur mesure",
+                    "✅ Systèmes de recommandation de produits basés sur l'IA",
+                    "✅ Gestion automatisée des stocks, suivi des commandes, intégrations de paiement",
+                    "✅ Boutiques PWA rapides et optimisées pour le mobile",
+                    "🛠 Technologies : Shopify, WooCommerce, Next.js, Stripe API, PayPal API"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",
@@ -100,14 +100,14 @@
             },
             {
                 "id": 4,
-                "title": "🤩🤩App Development & Infrastructure",
-                "description": "End-to-end app development and cloud-based infrastructure setup.",
+                "title": "Automatisation des entreprises & Intégration d'API",
+                "description": "🔗 Automatisation et intégration de services externes pour plus d’efficacité",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ Automatisation des processus métier (newsletters, gestion client, prise de rendez-vous)",
+                    "✅ Intégration des systèmes CRM, ERP",
+                    "✅ Développement et intégration d’API (Google Maps, Stripe, PayPal, OpenAI)",
+                    "✅ Web scraping et traitement de données via l'IA",
+                    "🛠 Technologies : Node.js, Next.js API Routes, REST API, GraphQL, Zapier"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",
@@ -116,14 +116,14 @@
             },
             {
                 "id": 5,
-                "title": "🤩App Development & Infrastructure",
-                "description": "End-to-end app development and cloud-based infrastructure setup.",
+                "title": "Gestion DevOps & VPS",
+                "description": "⚙️ Gestion sécurisée et évolutive des serveurs et infrastructures",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ Configuration et gestion des serveurs VPS (AWS, DigitalOcean)",
+                    "✅ Déploiement d’applications via Docker & Kubernetes",
+                    "✅ Pipelines CI/CD et tests automatisés",
+                    "✅ Sauvegardes de sécurité, monitoring, analyse des logs",
+                    "🛠 Technologies : AWS, DigitalOcean, Docker, Kubernetes, Nginx, GitHub Actions"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",
@@ -132,14 +132,14 @@
             },
             {
                 "id": 6,
-                "title": "🤩🤩🤩App Development & Infrastructure",
-                "description": "End-to-end app development and cloud-based infrastructure setup.",
+                "title": "Développement Web & Optimisation SEO",
+                "description": "🌍 Sites web rapides, optimisés SEO et orientés conversion",
                 "content": [
-                    "",
-                    "",
-                    "",
-                    "",
-                    ""
+                    "✅ Sites web ultra-rapides basés sur Next.js",
+                    "✅ Optimisation SEO et audit technique SEO",
+                    "✅ Design web responsive (développement mobile-friendly)",
+                    "✅ Mode sombre, animations et solutions UI/UX modernes",
+                    "🛠 Technologies : Next.js, Tailwind CSS, Framer Motion, Google Lighthouse SEO"
                 ],
                 "workLink1": "",
                 "linkButton1": "Work link 1 fr",

@@ -35,11 +35,15 @@ export default function Services() {
           }) => (
             <div
               key={service.id}
-              className="p-5 border rounded-lg shadow-md cursor-pointer hover:shadow-xl"
+              className="relative p-5 border rounded-lg shadow-md cursor-pointer hover:shadow-xl"
               onClick={() => setSelectedService(service)}
             >
               <h3 className="text-xl font-semibold">{service.title}</h3>
               <p className="text-sm mt-2">{service.description}</p>
+              <br />
+              <div className="absolute bottom-1 right-3 text-sm font-extralight mt-2">
+                👆 Click
+              </div>
             </div>
           )
         )}
@@ -54,7 +58,12 @@ export default function Services() {
             {selectedService.content && (
               <ul className="mt-2 list-disc pl-5">
                 {selectedService.content.map((item, index) => (
-                  <li key={index} className="text-sm">
+                  <li
+                    key={index}
+                    className={`${
+                      index > 4 ? "text-sm text-red-500 font-bold" : "text-sm"
+                    }`}
+                  >
                     {item}
                   </li>
                 ))}
@@ -64,34 +73,25 @@ export default function Services() {
             <div className="flex justify-around mt-4">
               {selectedService.workLink1 && (
                 <Link href={selectedService.workLink1}>
-                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
-                    {selectedService.linkButton2}
+                  <button
+                    className="m-1
+                   bg-red-500  text-lime-200 px-4 py-2 rounded-lg"
+                  >
+                    {selectedService.linkButton1}
                   </button>
                 </Link>
               )}
               {selectedService.workLink2 && (
                 <Link href={selectedService.workLink2}>
-                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
+                  <button
+                    className="m-1
+                   bg-red-500  text-lime-200 px-4 py-2 rounded-lg"
+                  >
                     {selectedService.linkButton2}
                   </button>
                 </Link>
               )}
             </div>
-
-            {/* <div className="flex justify-around mt-4">
-              <Link href={t("workLink1")}>
-                <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
-                  {t("linkButton1")}
-                </button>
-              </Link>
-              {t("workLink2") && (
-                <Link href="https://thegoodolddeveloper.com/contact">
-                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
-                    {t("linkButton2")}
-                  </button>
-                </Link>
-              )}
-            </div> */}
 
             <div className="flex justify-between mt-4">
               <Link href="https://thegoodolddeveloper.com/contact">

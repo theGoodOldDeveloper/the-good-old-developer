@@ -52,30 +52,32 @@
     "services": [
       {
         "id": 1,
-        "title": "AI & Chatbot Fejlesztés",
+        "title": "💕 AI & Chatbot Fejlesztés",
         "description": "🚀 Automatizált, intelligens ügyfélkapcsolat és AI-megoldások",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ AI-alapú chatbotok (Messenger, WhatsApp, weboldal beágyazás)",
+          "✅ Ügyfélszolgálati botok – automatizált kérdés-válasz és ügyintézés",
+          "✅ AI-asszisztensek – GPT-alapú chatbotok cégeknek",
+          "✅ Hangvezérelt és NLP-megoldások",
+          "🛠 Technológiák: BotPress, OpenAI API, Rasa, Next.js, Node.js",
+          "🔗 Privat ChatBot Dr. Schwab Richárd munkássága alapján  🔗",
+          "🔗 The Good Old Developer works 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 hu",
-        "workLink2": "",
-        "linkButton2": "Work link 2 hu"
+        "workLink1": "https://chatgpt.com/g/g-679bc75619148191a05961904f55f2aa-schwaber-diabet-guide",
+        "linkButton1": "Schwaber Diabet Guide",
+        "workLink2": "https://thegoodolddeveloper.com/contact",
+        "linkButton2": "TGOD"
       },
       {
         "id": 2,
-        "title": "Ecommerce & Hospitality IT",
-        "description": "Scalable IT solutions for restaurants, hotels, and ecommerce platforms.",
+        "title": "Egyedi Webalkalmazás & Portál Fejlesztés",
+        "description": "💻 Teljesen személyre szabott, skálázható webalkalmazások",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ Egyedi üzleti alkalmazások (ERP, CRM, ügyviteli rendszerek)",
+          "✅ Progresszív Webalkalmazások (PWA)",
+          "✅ SaaS platformok építése",
+          "✅ Backend fejlesztés API-kal és adatbázis integrációkkal",
+          "🛠 Technológiák: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 hu",
@@ -84,14 +86,14 @@
       },
       {
         "id": 3,
-        "title": "App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "E-kereskedelmi (E-commerce) Megoldások",
+        "description": "🛒 Modern, konverzióoptimalizált webáruházak és e-kereskedelmi platformok",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ WooCommerce, Shopify, teljesen egyedi fejlesztésű webshopok",
+          "✅ AI-alapú termékajánló rendszerek",
+          "✅ Automatizált készletkezelés, rendeléskövetés, fizetési integrációk",
+          "✅ PWA-alapú gyors és mobilbarát webáruházak",
+          "🛠 Technológiák: Shopify, WooCommerce, Next.js, Stripe API, PayPal API"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 hu",
@@ -100,14 +102,14 @@
       },
       {
         "id": 4,
-        "title": "App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "Üzleti Automatizáció & API Integráció",
+        "description": "🔗 Automatizálás és külső szolgáltatások integrációja a hatékonyabb működésért",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ Automatizált üzleti folyamatok (hírlevélküldők, ügyfélkezelés, időpontfoglalás)",
+          "✅ CRM, ERP rendszerek integrációja",
+          "✅ API fejlesztés és integráció (pl. Google Maps, Stripe, PayPal, OpenAI)",
+          "✅ Webscraping és adatfeldolgozás AI segítségével",
+          "🛠 Technológiák: Node.js, Next.js API Routes, REST API, GraphQL, Zapier"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 hu",
@@ -116,14 +118,14 @@
       },
       {
         "id": 5,
-        "title": "App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "DevOps & VPS Kezelés",
+        "description": "⚙️ Biztonságos és skálázható szerver- és infrastruktúra kezelés",
         "content": [
-          "",
-          "",
-          "",
-          "",
-          ""
+          "✅ VPS szerverek (AWS, DigitalOcean) beállítása és menedzselése",
+          "✅ Docker & Kubernetes alapú alkalmazásdeploy",
+          "✅ CI/CD pipeline-ok és automatikus tesztelés",
+          "✅ Biztonsági mentések, monitoring, log elemzés",
+          "🛠 Technológiák: AWS, DigitalOcean, Docker, Kubernetes, Nginx, GitHub Actions"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 hu",
@@ -132,14 +134,14 @@
       },
       {
         "id": 6,
-        "title": "App Development & Infrastructure",
-        "description": "End-to-end app development and cloud-based infrastructure setup.",
+        "title": "Weboldal Fejlesztés & SEO Optimalizáció",
+        "description": "🌍 Gyors, SEO-optimalizált, konverzióbarát weboldalak",
         "content": [
-          "1",
-          "2",
-          "3",
-          "4",
-          "5"
+          "✅ Next.js alapú villámgyors weboldalak",
+          "✅ Keresőoptimalizálás (SEO) és technikai SEO audit",
+          "✅ Weboldalak reszponzív dizájnja (mobilbarát fejlesztés)",
+          "✅ Dark mode, animációk és modern UI/UX megoldások",
+          "🛠 Technológiák: Next.js, Tailwind CSS, Framer Motion, Google Lighthouse SEO"
         ],
         "workLink1": "",
         "linkButton1": "Work link 1 hu",
