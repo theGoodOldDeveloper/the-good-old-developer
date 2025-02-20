@@ -10,7 +10,7 @@ export default function Footer() {
       <p className="text-lg mt-2">{t("tagline")}</p>
       <p className="mt-3">{t("contact")}</p>
       <a
-        href="/contact"
+        href="https://thegoodolddeveloper.com/contact"
         className="mt-4 inline-block px-6 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition"
       >
         {t("contactButton")}

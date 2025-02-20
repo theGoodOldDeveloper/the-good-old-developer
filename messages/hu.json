@@ -46,9 +46,9 @@
     "buttonText": "Üzenet küldése Messengerben"
   },
   "Services": {
-    "title": "Our Services",
-    "contactButton": "Contact Us",
-    "closeButton": "Close",
+    "title": "Szolgáltatásaink",
+    "contactButton": "Kapcsolat",
+    "closeButton": "Bezár",
     "services": [
       {
         "id": 1,
@@ -60,7 +60,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       },
       {
         "id": 2,
@@ -72,7 +76,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       },
       {
         "id": 3,
@@ -84,7 +92,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       },
       {
         "id": 4,
@@ -96,7 +108,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       },
       {
         "id": 5,
@@ -108,7 +124,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       },
       {
         "id": 6,
@@ -120,7 +140,11 @@
           "3",
           "4",
           "5"
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 hu",
+        "workLink2": "",
+        "linkButton2": "Work link 2 hu"
       }
     ]
   }

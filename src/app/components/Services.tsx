@@ -14,6 +14,10 @@ export default function Services() {
     title: string;
     description: string;
     content?: string[];
+    workLink1?: string;
+    workLink2?: string;
+    linkButton1?: string;
+    linkButton2?: string;
   } | null>(null);
 
   return (
@@ -46,6 +50,7 @@ export default function Services() {
           <div className="bg-white p-6 rounded-lg max-w-md">
             <h3 className="text-2xl font-semibold">{selectedService.title}</h3>
             <p className="mt-2">{selectedService.description}</p>
+
             {selectedService.content && (
               <ul className="mt-2 list-disc pl-5">
                 {selectedService.content.map((item, index) => (
@@ -55,17 +60,52 @@ export default function Services() {
                 ))}
               </ul>
             )}
-            <Link href="/contact">
-              <button className="mt-4 bg-blue-500 text-white px-4 py-2 rounded-lg">
-                {t("contactButton", { default: "Contact Us" })}
+
+            <div className="flex justify-around mt-4">
+              {selectedService.workLink1 && (
+                <Link href={selectedService.workLink1}>
+                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
+                    {selectedService.linkButton2}
+                  </button>
+                </Link>
+              )}
+              {selectedService.workLink2 && (
+                <Link href={selectedService.workLink2}>
+                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
+                    {selectedService.linkButton2}
+                  </button>
+                </Link>
+              )}
+            </div>
+
+            {/* <div className="flex justify-around mt-4">
+              <Link href={t("workLink1")}>
+                <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
+                  {t("linkButton1")}
+                </button>
+              </Link>
+              {t("workLink2") && (
+                <Link href="https://thegoodolddeveloper.com/contact">
+                  <button className="mt-4 bg-red-500  text-lime-200 px-4 py-2 rounded-lg">
+                    {t("linkButton2")}
+                  </button>
+                </Link>
+              )}
+            </div> */}
+
+            <div className="flex justify-between mt-4">
+              <Link href="https://thegoodolddeveloper.com/contact">
+                <button className="mt-4 bg-blue-500 text-white px-4 py-2 rounded-lg">
+                  {t("contactButton", { default: "Contact Us" })}
+                </button>
+              </Link>
+              <button
+                className="mt-4 bg-orange-200 text-red-500 px-4 py-2 rounded-lg"
+                onClick={() => setSelectedService(null)}
+              >
+                {t("closeButton", { default: "Close" })}
               </button>
-            </Link>
-            <button
-              className="mt-2 text-red-500"
-              onClick={() => setSelectedService(null)}
-            >
-              {t("closeButton", { default: "Close" })}
-            </button>
+            </div>
           </div>
         </div>
       )}

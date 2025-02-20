@@ -46,9 +46,9 @@
     "buttonText": "Nachricht über Messenger senden"
   },
   "Services": {
-    "title": "Our Services",
-    "contactButton": "Contact Us",
-    "closeButton": "Close",
+    "title": "Unsere Dienstleistungen",
+    "contactButton": "Kontakt aufnehmen",
+    "closeButton": "Schließen",
     "services": [
       {
         "id": 1,
@@ -60,7 +60,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       },
       {
         "id": 2,
@@ -72,7 +76,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       },
       {
         "id": 3,
@@ -84,7 +92,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       },
       {
         "id": 4,
@@ -96,7 +108,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       },
       {
         "id": 5,
@@ -108,7 +124,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       },
       {
         "id": 6,
@@ -120,7 +140,11 @@
           "",
           "",
           ""
-        ]
+        ],
+        "workLink1": "",
+        "linkButton1": "Work link 1 de",
+        "workLink2": "",
+        "linkButton2": "Work link 2 de"
       }
     ]
   }
