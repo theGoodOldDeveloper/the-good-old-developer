@@ -34,7 +34,8 @@
         "quotesLine2": "Mais quelqu'un qui maîtrise l'IA pourrait bien le faire.",
         "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/53204165-e08a-4243-bdd3-45ca6d1415e5?autoplay=1&volume=0.2",
         "contactButton": "Contactez-nous",
-        "messengerButton": "Messenger"
+        "messengerButton": "Messenger",
+        "buttonTextTGOD": "français"
     },
     "Footer": {
         "copyright": "© 2024 THE GOOD OLD DEVELOPER. Tous droits réservés.",
@@ -59,12 +60,14 @@
                     "✅ Bots de service client – FAQ et assistance automatisées",
                     "✅ Assistants IA – Chatbots GPT pour les entreprises",
                     "✅ Solutions NLP et commandes vocales",
-                    "🛠 Technologies : BotPress, OpenAI API, Rasa, Next.js, Node.js"
+                    "🛠 Technologies : BotPress, OpenAI API, Rasa, Next.js, Node.js",
+                    "🔗 ChatBot Privé Basé sur le Travail du Dr. Richárd Schwab  🔗",
+                    "🔗 Clone Personnalisé de ChatGPT – 'Chat G. Peter' 🔗"
                 ],
-                "workLink1": "",
-                "linkButton1": "Work link 1 fr",
-                "workLink2": "",
-                "linkButton2": "Work link 2 fr"
+                "workLink1": "https://chatgpt.com/g/g-679bc75619148191a05961904f55f2aa-schwaber-diabet-guide",
+                "linkButton1": "Schwaber Diabet Guide",
+                "workLink2": "https://chat-my-gpt-rho.vercel.app/",
+                "linkButton2": "Chat G. Peter"
             },
             {
                 "id": 2,
@@ -75,12 +78,14 @@
                     "✅ Applications web progressives (PWA)",
                     "✅ Développement de plateformes SaaS",
                     "✅ Développement backend avec API et intégration de bases de données",
-                    "🛠 Technologies : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
+                    "🛠 Technologies : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL",
+                    "🔗 Présentation du Terminal de Bar. Le code PIN requis pour l'accès : 0 ou 11 ou 2 ou 3 🔗",
+                    "🔗 Réservation de Séance d'Entraînement 🔗"
                 ],
-                "workLink1": "",
-                "linkButton1": "Work link 1 fr",
-                "workLink2": "",
-                "linkButton2": "Work link 2 fr"
+                "workLink1": "http://80.211.204.154:7777/",
+                "linkButton1": "Terminal de Bar",
+                "workLink2": "http://80.211.204.154:5001/",
+                "linkButton2": "Réserver Entraînement"
             },
             {
                 "id": 3,

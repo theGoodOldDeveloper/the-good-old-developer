@@ -34,7 +34,8 @@
     "quotesLine2": "Aber jemand, der sich mit KI auskennt, vielleicht schon.",
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2",
     "contactButton": "Kontakt aufnehmen",
-    "messengerButton": "Messenger"
+    "messengerButton": "Messenger",
+    "buttonTextTGOD": "deutsch"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. Alle Rechte vorbehalten.",
@@ -59,12 +60,14 @@
           "✅ Kundensupport-Bots – automatisierte FAQs und Support",
           "✅ KI-Assistenten – GPT-basierte Chatbots für Unternehmen",
           "✅ Sprachgesteuerte und NLP-Lösungen",
-          "🛠 Technologien : BotPress, OpenAI API, Rasa, Next.js, Node.js"
+          "🛠 Technologien : BotPress, OpenAI API, Rasa, Next.js, Node.js",
+          "🔗 Privater ChatBot Basierend auf der Arbeit von Dr. Richárd Schwab 🔗",
+          "🔗 Eigenentwickelter ChatGPT-Klon – 'Chat G. Peter' 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 de",
-        "workLink2": "",
-        "linkButton2": "Work link 2 de"
+        "workLink1": "https://chatgpt.com/g/g-679bc75619148191a05961904f55f2aa-schwaber-diabet-guide",
+        "linkButton1": "Schwaber Diabet Guide",
+        "workLink2": "https://chat-my-gpt-rho.vercel.app/",
+        "linkButton2": "Chat G. Peter"
       },
       {
         "id": 2,
@@ -75,12 +78,14 @@
           "✅ Progressive Web-Apps (PWA)",
           "✅ Entwicklung von SaaS-Plattformen",
           "✅ Backend-Entwicklung mit APIs und Datenbankintegrationen",
-          "🛠 Technologien : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
+          "🛠 Technologien : Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL",
+          "🔗 Präsentation des Theken-Terminals. Die für den Zugang erforderliche PIN: 0 oder 11 oder 2 oder 3 🔗",
+          "🔗 Trainingsbuchung 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 de",
-        "workLink2": "",
-        "linkButton2": "Work link 2 de"
+        "workLink1": "http://80.211.204.154:7777/",
+        "linkButton1": "Theken-Terminal",
+        "workLink2": "http://80.211.204.154:5001/",
+        "linkButton2": "Training Buchen"
       },
       {
         "id": 3,

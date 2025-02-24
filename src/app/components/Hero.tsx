@@ -72,6 +72,14 @@ export default function Hero() {
         transition={{ delay: 1, duration: 1 }}
       >
         <Messenger />
+        {/* <a
+          href={"https://thegoodolddeveloper.com/works"}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-4 px-6 py-3 bg-blue-600 text-white font-bold rounded-lg shadow-lg hover:bg-blue-700 transition"
+        >
+          {t("buttonTextTGOD")}
+        </a> */}
         {/* <button className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg">
           {t("contactButton")}
         </button>

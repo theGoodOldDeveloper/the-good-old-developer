@@ -34,7 +34,8 @@
     "quotesLine2": "But someone who knows AI might.",
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2",
     "contactButton": "Get in Touch",
-    "messengerButton": "Messenger"
+    "messengerButton": "Messenger",
+    "buttonTextTGOD": "english"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. All rights reserved.",
@@ -59,12 +60,14 @@
           "✅ Customer service bots – automated FAQ and support",
           "✅ AI assistants – GPT-based chatbots for businesses",
           "✅ Voice-controlled and NLP solutions",
-          "🛠 Technologies: BotPress, OpenAI API, Rasa, Next.js, Node.js"
+          "🛠 Technologies: BotPress, OpenAI API, Rasa, Next.js, Node.js",
+          "🔗 Private ChatBot Based on Dr. Richárd Schwab’s Work 🔗",
+          "🔗 Custom ChatGPT Clone – 'Chat G. Peter' 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 en",
-        "workLink2": "",
-        "linkButton2": "Work link 2 en"
+        "workLink1": "https://chatgpt.com/g/g-679bc75619148191a05961904f55f2aa-schwaber-diabet-guide",
+        "linkButton1": "Schwaber Diabet Guide",
+        "workLink2": "https://chat-my-gpt-rho.vercel.app/",
+        "linkButton2": "Chat G. Peter"
       },
       {
         "id": 2,
@@ -75,12 +78,14 @@
           "✅ Progressive Web Applications (PWA)",
           "✅ SaaS platform development",
           "✅ Backend development with APIs and database integrations",
-          "🛠 Technologies: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
+          "🛠 Technologies: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL",
+          "🔗 Pub Counter Terminal Showcase. The PIN required for access: 0 or 11 or 2 or 3 🔗",
+          "🔗 Training Session Booking 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 en",
-        "workLink2": "",
-        "linkButton2": "Work link 2 en"
+        "workLink1": "http://80.211.204.154:7777/",
+        "linkButton1": "Pub Terminal",
+        "workLink2": "http://80.211.204.154:5001/",
+        "linkButton2": "Training Booking"
       },
       {
         "id": 3,

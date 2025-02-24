@@ -34,7 +34,8 @@
     "quotesLine2": "De valaki, aki ért az AI-hoz, lehet, hogy igen.",
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2",
     "contactButton": "Kapcsolat",
-    "messengerButton": "Messenger"
+    "messengerButton": "Messenger",
+    "buttonTextTGOD": "magyar"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. Minden jog fenntartva.",
@@ -61,12 +62,12 @@
           "✅ Hangvezérelt és NLP-megoldások",
           "🛠 Technológiák: BotPress, OpenAI API, Rasa, Next.js, Node.js",
           "🔗 Privat ChatBot Dr. Schwab Richárd munkássága alapján  🔗",
-          "🔗 The Good Old Developer works 🔗"
+          "🔗 Saját fejlesztésű ChatGPT klón – 'Chat G. Peter' 🔗"
         ],
         "workLink1": "https://chatgpt.com/g/g-679bc75619148191a05961904f55f2aa-schwaber-diabet-guide",
         "linkButton1": "Schwaber Diabet Guide",
-        "workLink2": "https://thegoodolddeveloper.com/contact",
-        "linkButton2": "TGOD"
+        "workLink2": "https://chat-my-gpt-rho.vercel.app/",
+        "linkButton2": "Chat G. Peter"
       },
       {
         "id": 2,
@@ -77,12 +78,14 @@
           "✅ Progresszív Webalkalmazások (PWA)",
           "✅ SaaS platformok építése",
           "✅ Backend fejlesztés API-kal és adatbázis integrációkkal",
-          "🛠 Technológiák: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL"
+          "🛠 Technológiák: Next.js, React, TypeScript, Node.js, PostgreSQL, MongoDB, REST API, GraphQL",
+          "🔗 Kocsmai 😊 pultos terminál bemutató. A belépéshez szükséges PIN: 0 vagy 11 vagy 2 vagy 3 🔗",
+          "🔗 Edzés időpontfoglaló 🔗"
         ],
-        "workLink1": "",
-        "linkButton1": "Work link 1 hu",
-        "workLink2": "",
-        "linkButton2": "Work link 2 hu"
+        "workLink1": "http://80.211.204.154:7777/",
+        "linkButton1": "Pultos Terminál",
+        "workLink2": "http://80.211.204.154:5001/",
+        "linkButton2": "Edzésfoglalás"
       },
       {
         "id": 3,
