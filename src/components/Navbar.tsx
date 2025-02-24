@@ -6,8 +6,8 @@ import Flag_ES from "../images/es-flag.png";
 import Flag_HU from "../images/hu-flag.png";
 import Flag_DE from "../images/de-flag.png";
 import Flag_EN from "../images/gb-flag.png";
-//import portrait from "../images/portrait_main.jpg";
-import portrait from "@/images/portrait_main.jpg";
+import portrait from "../images/portrait_main.jpg";
+//import portrait from "@/images/portrait_main.jpg";
 
 export default function Navbar() {
   return (
