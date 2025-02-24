@@ -1,13 +1,5 @@
 import Link from "next/link";
 import Image from "next/image";
-import Flag_PT from "../images/pt-flag.png";
-import Flag_FR from "../images/fr-flag.png";
-import Flag_ES from "../images/es-flag.png";
-import Flag_HU from "../images/hu-flag.png";
-import Flag_DE from "../images/de-flag.png";
-import Flag_EN from "../images/gb-flag.png";
-import portrait from "../images/portrait_main.jpg";
-//import portrait from "@/images/portrait_main.jpg";
 
 export default function Navbar() {
   return (
@@ -15,7 +7,7 @@ export default function Navbar() {
       <nav className="flex justify-between items-center ps-2 pe-2">
         <div className="flex items-center">
           <Image
-            src={portrait}
+            src="/images/portrait_main.jpg"
             alt="Logo"
             width={25}
             height={25}
@@ -26,16 +18,36 @@ export default function Navbar() {
         </div>
         <div className="flex justify-end gap-4 p-1">
           <Link href="/en">
-            <Image src={Flag_EN} alt="english flag" width={36} height={36} />
+            <Image
+              src="/images/gb-flag.png"
+              alt="english flag"
+              width={36}
+              height={36}
+            />
           </Link>
           <Link href="/hu">
-            <Image src={Flag_HU} alt="hungarian flag" width={36} height={36} />
+            <Image
+              src="/images/hu-flag.png"
+              alt="hungarian flag"
+              width={36}
+              height={36}
+            />
           </Link>
           <Link href="/fr">
-            <Image src={Flag_FR} alt="french flag" width={36} height={36} />
+            <Image
+              src="/images/fr-flag.png"
+              alt="french flag"
+              width={36}
+              height={36}
+            />
           </Link>
           <Link href="/de">
-            <Image src={Flag_DE} alt="german flag" width={36} height={36} />
+            <Image
+              src="/images/de-flag.png"
+              alt="german flag"
+              width={36}
+              height={36}
+            />
           </Link>
         </div>
       </nav>
