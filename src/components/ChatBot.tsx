@@ -16,7 +16,7 @@ export default function ChatBot({ locale }: { locale: string }) {
     <>
       <Script
         key={`botpress-inject-${currentLocale}`}
-        src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"
+        src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"
         strategy="afterInteractive"
       />
       <Script
