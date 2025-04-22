@@ -17,7 +17,7 @@ export default function Hero() {
   return (
     <div className="flex flex-col items-center justify-center h-screen text-center bg-gradient-to-r from-blue-500 to-purple-700 text-white">
       <motion.h1
-        className="text-2xl md:text-5xl font-bold"
+        className="text-2xl md:text-5xl font-bold mt-10"
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
@@ -66,26 +66,19 @@ export default function Hero() {
       )}
 
       <motion.div
-        className="mt-8 flex gap-4"
+        className="mt-8 flex flex-col gap-4"
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ delay: 1, duration: 1 }}
       >
         <Messenger />
-        {/* <a
-          href={"https://thegoodolddeveloper.com/works"}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="mt-4 px-6 py-3 bg-blue-600 text-white font-bold rounded-lg shadow-lg hover:bg-blue-700 transition"
+
+        <a
+          href="tel:+442039110480"
+          className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg"
         >
-          {t("buttonTextTGOD")}
-        </a> */}
-        {/* <button className="px-6 py-3 bg-white text-blue-500 font-bold rounded-lg shadow-lg">
           {t("contactButton")}
-        </button>
-        <button className="px-6 py-3 bg-blue-700 text-white font-bold rounded-lg shadow-lg">
-          {t("messengerButton")}
-        </button> */}
+        </a>
       </motion.div>
     </div>
   );
