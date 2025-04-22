@@ -17,7 +17,7 @@ export default function Hero() {
   return (
     <div className="flex flex-col items-center justify-center h-screen text-center bg-gradient-to-r from-blue-500 to-purple-700 text-white">
       <motion.h1
-        className="text-2xl md:text-5xl font-bold mt-10"
+        className="text-2xl md:text-5xl font-bold "
         initial={{ opacity: 0, y: -50 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
