@@ -14,16 +14,18 @@ export default function ChatBot({ locale }: { locale: string }) {
 
   return (
     <>
-      <Script
+      {/* <Script
         key={`botpress-inject-${currentLocale}`}
-        src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"
+        src="https://cdn.botpress.cloud/webchat/v2.4/inject.js"
         strategy="afterInteractive"
       />
       <Script
         key={`botpress-chatbot-${currentLocale}`}
         src="https://files.bpcontent.cloud/2024/12/07/09/20241207095340-GZXCSAV5.js"
         strategy="afterInteractive"
-      />
+      /> */}
     </>
   );
 }
+//src="https://cdn.botpress.cloud/webchat/v2.3/inject.js"
+//src="https://files.bpcontent.cloud/2024/12/07/09/20241207095340-GZXCSAV5.js"
