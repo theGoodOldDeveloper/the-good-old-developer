@@ -20,12 +20,12 @@ export default async function LocaleLayout({
       <head>
         <Script
           key={`botpress-inject-${locale}`}
-          src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"
+          src="https://cdn.botpress.cloud/webchat/v2.4/inject.js"
           strategy="afterInteractive"
         />
         <Script
           key={`botpress-chatbot-${locale}`}
-          src="https://files.bpcontent.cloud/2024/12/07/09/20241207095340-GZXCSAV5.js"
+          src="https://files.bpcontent.cloud/2025/05/11/12/20250511124217-KYX6Y335.js"
           strategy="afterInteractive"
         />
       </head>
