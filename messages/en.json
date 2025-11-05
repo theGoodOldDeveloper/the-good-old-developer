@@ -35,7 +35,9 @@
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/9ea1b27d-659e-47f8-834d-ee3111268427?autoplay=1&volume=0.2",
     "contactButton": "Call AI Assistant",
     "messengerButton": "Messenger",
-    "buttonTextTGOD": "english"
+    "buttonTextTGOD": "english",
+    "ebookText": "📘 A question we all ask: will the machine have a soul?\n\nThe answer is in the e-book – download it and see AI from a different perspective!",
+    "ebookLink": "https://preview.mailerlite.io/forms/1669220/160445731496265273/share"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. All rights reserved.",

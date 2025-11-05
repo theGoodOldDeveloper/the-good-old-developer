@@ -35,7 +35,9 @@
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/6e1263ce-4143-49e4-83c2-0468410a7b6b?autoplay=1&volume=0.2",
     "contactButton": "AI aszisztens hívása",
     "messengerButton": "Messenger",
-    "buttonTextTGOD": "magyar"
+    "buttonTextTGOD": "magyar",
+    "ebookText": "📘 Egy kérdés, amit mind felteszünk: lesz-e lelke a gépnek?\n\nA válasz ott van az e-bookban – töltsd le, és nézz más szemmel az AI-ra!",
+    "ebookLink": "https://preview.mailerlite.io/forms/1669220/160082065423861690/share"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. Minden jog fenntartva.",

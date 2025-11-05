@@ -35,7 +35,9 @@
     "synthesiaVideoLink": "https://share.synthesia.io/embeds/videos/cecf6749-3335-483f-9898-7668ef0976a6?autoplay=1&volume=0.2",
     "contactButton": "KI-Assistent rufen",
     "messengerButton": "Messenger",
-    "buttonTextTGOD": "deutsch"
+    "buttonTextTGOD": "deutsch",
+    "ebookText": "📘 Eine Frage, die wir uns alle stellen: Wird die Maschine eine Seele haben?\n\nDie Antwort steht im E-Book – lade es herunter und betrachte KI aus einer anderen Perspektive!",
+    "ebookLink": "https://preview.mailerlite.io/forms/1669220/160445731496265273/share"
   },
   "Footer": {
     "copyright": "© 2024 THE GOOD OLD DEVELOPER. Alle Rechte vorbehalten.",
